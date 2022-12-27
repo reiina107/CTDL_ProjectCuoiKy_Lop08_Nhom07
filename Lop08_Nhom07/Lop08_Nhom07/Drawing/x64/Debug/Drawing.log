@@ -1,0 +1,7 @@
+﻿  Drawing.cpp
+C:\MonHoc\CTDL\Lop08_Nhom07\Drawing\graphics.h(41,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\MonHoc\CTDL\Lop08_Nhom07\Drawing\graphics.h(42,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\MonHoc\CTDL\Lop08_Nhom07\Drawing\graphics.h(238,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\MonHoc\CTDL\Lop08_Nhom07\Drawing\graphics.h(239,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+C:\MonHoc\CTDL\Lop08_Nhom07\Drawing\Drawing.cpp(195): warning C4715: 'Threaded_BinaryTree::findFatherNode': not all control paths return a value
+  Drawing.vcxproj -> C:\MonHoc\CTDL\Lop08_Nhom07\x64\Debug\Drawing.exe
